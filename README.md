@@ -1,6 +1,8 @@
 # SQL Relational Database
 SQL relational database for data analysis on SQL Server
 
+Datasets were generated from [*Mockaroo.com*]([https://dune.com/babylondon_204/ethereum-blockchain-stats](https://www.mockaroo.com/))
+
 ![Tables](https://bayodeolorundare.com/wp-content/uploads/2023/08/relational_table_diagram.jpg)
 **SQL Server Inner Join Query for All Tables**
 
